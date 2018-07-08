@@ -17,7 +17,14 @@
   },
   "repository": {
     "type": "git",
-
+    "url": "git+https://github.com/ReactjsProgram/react-fundamentals-curriculum.git"
+  },
+  "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReactjsProgram/react-fundamentals-curriculum/issues"
+  },
+  "homepage": "https://github.com/ReactjsProgram/react-fundamentals-curriculum#readme",
   "dependencies": {
     "axios": "^0.16.1",
     "prop-types": "^15.5.8",
